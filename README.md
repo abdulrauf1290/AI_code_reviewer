@@ -1,9 +1,12 @@
-# AI_code_reviewer
-
 
 # Python Code Review App 🐞🔍
-
 The objective of this project is to develop a Python application that allows users to submit their Python code for review and receive feedback on potential bugs along with suggestions for fixes. The application aims to be user-friendly, efficient, and provide accurate bug reports and fixed code snippets.
+
+![rev1](https://github.com/abdulrauf1290/AI_code_reviewer/assets/126774164/9f21dc05-16ab-491a-b44b-ea4c545ef016)
+
+![rev2](https://github.com/abdulrauf1290/AI_code_reviewer/assets/126774164/4a14b6b3-7653-40e7-9919-ab212a0553c3)
+
+
 
 ## Features 🚀
 
